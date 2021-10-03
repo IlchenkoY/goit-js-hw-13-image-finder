@@ -1,0 +1,12 @@
+.button {
+  display: block;
+  margin: 0 auto;
+}
+
+.button.is-hidden {
+  display: none;
+}
+
+.button > .spinner.is-hidden {
+  display: none;
+}
